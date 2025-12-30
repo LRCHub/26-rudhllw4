@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Reason（feat. Hatsune Miku）",
+  "base_artist": "Twinfield",
+  "createdAt": "2025-12-30T16:35:32.770615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Only Reason (feat. Breakbot & Irfane)",
+      "artist": "Yuksek",
+      "has_synced": true,
+      "path": "select/01_The_Only_Reason_(feat._Breakbot_&_Irfane)_Yuksek.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ex For A Reason (feat. JT & City Girls)",
+      "artist": "Summer Walker",
+      "has_synced": true,
+      "path": "select/02_Ex_For_A_Reason_(feat._JT_&_City_Girls)_Summer_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Reason (feat. Nick Murphy)",
+      "artist": "Bonobo",
+      "has_synced": true,
+      "path": "select/03_No_Reason_(feat._Nick_Murphy)_Bonobo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reason (feat. Swae Lee)",
+      "artist": "Big Sean & Metro Boomin",
+      "has_synced": true,
+      "path": "select/04_Reason_(feat._Swae_Lee)_Big_Sean_&_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Reason (feat. YG, Jeezy, Nipsey Hussle & RJ)",
+      "artist": "DJ Mustard",
+      "has_synced": true,
+      "path": "select/05_No_Reason_(feat._YG,_Jeezy,_Nipsey_Hussle_&_RJ)_DJ_Mustard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Give Me a Reason (feat. Nate Ruess) - Live",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/06_Just_Give_Me_a_Reason_(feat._Nate_Ruess)_-_Live_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just Give Me A Reason (Feat. Nate Ruess)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/07_Just_Give_Me_A_Reason_(Feat._Nate_Ruess)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Reason (feat. Nicole Jackson)",
+      "artist": "Sigma",
+      "has_synced": true,
+      "path": "select/08_The_Reason_(feat._Nicole_Jackson)_Sigma.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just Give Me a Reason (feat. Nate Ruess)",
+      "artist": "P!nk, Nate Ruess",
+      "has_synced": true,
+      "path": "select/09_Just_Give_Me_a_Reason_(feat._Nate_Ruess)_P!nk,_Nate_Ruess.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just Give Me a Reason (feat. Nate Ruess)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/10_Just_Give_Me_a_Reason_(feat._Nate_Ruess)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Good Reason (feat. Bruce Turgon & Brad Whitford)",
+      "artist": "Ronnie Montrose feat. Ricky Phillips, Eric Singer, Brad Whitford & Bruce Turgon",
+      "has_synced": false,
+      "path": "select/11_One_Good_Reason_(feat._Bruce_Turgon_&_Brad_Whitford)_Ronnie_Montrose_feat._Ricky_Phillips,_Eric_Singer,_Brad_Whitford_&_Bruce_Turgon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just Give Me A Reason (Feat. Nate Ruess)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/12_Just_Give_Me_A_Reason_(Feat._Nate_Ruess)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Just Give Me a Reason (feat. Nate Ruess)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/13_Just_Give_Me_a_Reason_(feat._Nate_Ruess)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Reason (feat. Russ)",
+      "artist": "Asake",
+      "has_synced": true,
+      "path": "select/14_Reason_(feat._Russ)_Asake.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just Give Me a Reason (feat. Nate Ruess) (Live)",
+      "artist": "P!nk, Nate Ruess",
+      "has_synced": true,
+      "path": "select/15_Just_Give_Me_a_Reason_(feat._Nate_Ruess)_(Live)_P!nk,_Nate_Ruess.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Are the Reason (feat. Mehnaz)",
+      "artist": "Air Supply feat. Mehnaz",
+      "has_synced": true,
+      "path": "select/16_You_Are_the_Reason_(feat._Mehnaz)_Air_Supply_feat._Mehnaz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Are The Reason (Feat. Mehnaz)",
+      "artist": "Air Supply",
+      "has_synced": false,
+      "path": "select/17_You_Are_The_Reason_(Feat._Mehnaz)_Air_Supply.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reason (feat. 初音ミク)",
+      "artist": "Twinfield",
+      "has_synced": false,
+      "path": "select/pl_01_Reason_(feat._初音ミク)_Twinfield.txt"
+    }
+  ]
+}
